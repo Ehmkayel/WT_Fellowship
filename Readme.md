@@ -8,9 +8,9 @@ Welcome to my Women Techsters Fellowship journey! This repository serves as a pr
 
 
 ## 👩‍💻 About Me
-**Name:** [ALADE Morufat Lamidi]   
-**Learning Track:** [Software Engineering(Frontend Development)]  
-**Location:** [Lagos, Nigeria]  
+**Name:** ALADE Morufat Lamidi   
+**Learning Track:** Software Engineering(Frontend Development)  
+**Location:** Lagos, Nigeria  
 
 ### How to Connect
  - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
