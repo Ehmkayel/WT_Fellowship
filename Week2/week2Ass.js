@@ -33,7 +33,7 @@ let profiles = [
   },
 ];
 
-// ---------- Function Basics ----------
+//  Function Basics 
 function gradeProfile(profile) {
   let score = 0;
 
